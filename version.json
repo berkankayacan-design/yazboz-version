@@ -1,0 +1,58 @@
+{
+  "android_version": "1.3.0",
+  "ios_version": "1.3.0",
+  "android_build": 9,
+  "ios_build": 9,
+  "release_date": "2025-09-30",
+  "release_notes": {
+    "tr": {
+      "title": "Yaz-Boz Tahtası v1.3.0 Güncellemesi",
+      "features": [
+        "Koz Maça Batak oyunu eklendi (Tam özellikli)",
+        "İhaleli Batak oyunu eklendi (Tam özellikli)",
+        "İhale sistemi ve puanlama",
+        "Geçmiş oyunlar desteği"
+      ],
+      "improvements": [
+        "Düz Okey arayüz iyileştirmeleri",
+        "Geçmiş oyunlar sistemi güncellendi",
+        "Performans optimizasyonları"
+      ],
+      "fixes": [
+        "Uygulama performansı iyileştirildi",
+        "Hata düzeltmeleri yapıldı",
+        "Genel stabilite artırıldı"
+      ],
+      "message": "Yeni Koz Maça ve İhaleli Batak oyunlarını denemek için güncelleyin!"
+    },
+    "en": {
+      "title": "Yaz-Boz Tahtası v1.3.0 Update",
+      "features": [
+        "Koz Maça Batak game added (Full-featured)",
+        "İhaleli Batak game added (Full-featured)",
+        "Bidding system and scoring",
+        "Game history support"
+      ],
+      "improvements": [
+        "Düz Okey UI improvements",
+        "Game history system updated",
+        "Performance optimizations"
+      ],
+      "fixes": [
+        "App performance improved",
+        "Bug fixes",
+        "Overall stability increased"
+      ],
+      "message": "Update now to try the new Koz Maça and İhaleli Batak games!"
+    }
+  },
+  "minimum_supported_version": {
+    "android": "1.0.0",
+    "ios": "1.0.0"
+  },
+  "force_update": false,
+  "store_urls": {
+    "android": "https://play.google.com/store/apps/details?id=com.hbk.yazboz_app",
+    "ios": "https://apps.apple.com/app/id6751717976"
+  }
+}
