@@ -1,53 +1,47 @@
 {
-  "android_version": "1.3.5",
-  "ios_version": "1.3.5",
-  "android_build": 11,
-  "ios_build": 11,
-  "release_date": "2025-10-04",
+  "android_version": "1.4.0",
+  "ios_version": "1.4.0",
+  "android_build": 12,
+  "ios_build": 12,
+  "release_date": "2025-10-14",
   "release_notes": {
     "tr": {
-      "title": "Yaz-Boz Tahtası v1.3.5 Güncellemesi",
+      "title": "Yaz-Boz Tahtası v1.4.0 Güncellemesi",
       "features": [
-        "Gömmeli Batak (3 Kişilik) oyunu eklendi",
-        "İhale sistemi (8-13 el arası)",
-        "Mecburi ihale mekanizması",
-        "Ayarlanabilir batar sistemi",
-        "Skor tablosu ve geçmiş oyunlar"
+        "Pişti oyunu eklendi - 2 ve 4 kişilik",
+        "Geçmiş oyunlar ve istatistikler"
       ],
       "improvements": [
-        "Düz Okey ekranı optimize edildi",
-        "Oyuncu isim girişleri iyileştirildi",
-        "UI/UX güncellemeleri",
-        "Performans optimizasyonları"
+        "Tüm oyunlarda responsive tasarım",
+        "iPhone modellerinde UI optimizasyonu",
+        "Performans ve stabilite artırımları",
+        "Görsel iyileştirmeler"
       ],
       "fixes": [
-        "Ekran görünüm sorunları giderildi",
-        "SafeArea padding düzeltmeleri",
+        "Ekran taşma sorunları giderildi",
+        "Oyun geçmişi hataları düzeltildi",
         "Genel stabilite artırıldı"
       ],
-      "message": "Yeni Gömmeli Batak oyununu denemek için güncelleyin!"
+      "message": "Yeni Pişti oyununu denemek için güncelleyin!"
     },
     "en": {
-      "title": "Yaz-Boz Tahtası v1.3.5 Update",
+      "title": "Yaz-Boz Tahtası v1.4.0 Update",
       "features": [
-        "Gömmeli Batak (3 Players) game added",
-        "Bidding system (8-13 tricks)",
-        "Mandatory bid mechanism",
-        "Adjustable bust system",
-        "Scoreboard and game history"
+        "Pisti game added - 2 and 4 players",
+        "Game history and statistics"
       ],
       "improvements": [
-        "Düz Okey screen optimized",
-        "Player name inputs improved",
-        "UI/UX updates",
-        "Performance optimizations"
+        "Responsive design in all games",
+        "iPhone model UI optimization",
+        "Performance and stability improvements",
+        "Visual enhancements"
       ],
       "fixes": [
-        "Screen display issues fixed",
-        "SafeArea padding fixes",
+        "Screen overflow issues fixed",
+        "Game history errors corrected",
         "Overall stability increased"
       ],
-      "message": "Update now to try the new Gömmeli Batak game!"
+      "message": "Update now to try the new Pisti game!"
     }
   },
   "minimum_supported_version": {
