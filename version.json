@@ -1,47 +1,41 @@
 {
-  "android_version": "1.4.0",
-  "ios_version": "1.4.0",
-  "android_build": 12,
-  "ios_build": 12,
-  "release_date": "2025-10-14",
+  "android_version": "1.4.1",
+  "ios_version": "1.4.1",
+  "android_build": 13,
+  "ios_build": 13,
+  "release_date": "2025-10-17",
   "release_notes": {
     "tr": {
-      "title": "Yaz-Boz Tahtası v1.4.0 Güncellemesi",
+      "title": "Yaz-Boz Tahtası v1.4.1 Güncellemesi",
       "features": [
-        "Pişti oyunu eklendi - 2 ve 4 kişilik",
-        "Geçmiş oyunlar ve istatistikler"
+        "Pişti oyunu skor girişi iyileştirildi",
+        "Gömme'li Batak el skorları 16'ya kadar artırıldı"
       ],
       "improvements": [
-        "Tüm oyunlarda responsive tasarım",
-        "iPhone modellerinde UI optimizasyonu",
-        "Performans ve stabilite artırımları",
-        "Görsel iyileştirmeler"
+        "Kullanıcı deneyimi optimizasyonları",
+        "Hata düzeltmeleri"
       ],
       "fixes": [
-        "Ekran taşma sorunları giderildi",
-        "Oyun geçmişi hataları düzeltildi",
-        "Genel stabilite artırıldı"
+        "Pişti skor girişinde otomatik 0 temizleme",
+        "Gömme'li Batak tahmin ve skor giriş limitleri düzeltildi"
       ],
-      "message": "Yeni Pişti oyununu denemek için güncelleyin!"
+      "message": "Güncellenmiş oyun deneyimini keşfedin!"
     },
     "en": {
-      "title": "Yaz-Boz Tahtası v1.4.0 Update",
+      "title": "Yaz-Boz Tahtası v1.4.1 Update",
       "features": [
-        "Pisti game added - 2 and 4 players",
-        "Game history and statistics"
+        "Pisti game score entry improved",
+        "Gömme'li Batak hand scores increased to 16"
       ],
       "improvements": [
-        "Responsive design in all games",
-        "iPhone model UI optimization",
-        "Performance and stability improvements",
-        "Visual enhancements"
+        "User experience optimizations",
+        "Bug fixes"
       ],
       "fixes": [
-        "Screen overflow issues fixed",
-        "Game history errors corrected",
-        "Overall stability increased"
+        "Automatic 0 clearing in Pisti score entry",
+        "Fixed Gömme'li Batak bid and score entry limits"
       ],
-      "message": "Update now to try the new Pisti game!"
+      "message": "Discover the updated gaming experience!"
     }
   },
   "minimum_supported_version": {
