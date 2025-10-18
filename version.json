@@ -1,41 +1,53 @@
 {
-  "android_version": "1.4.1",
-  "ios_version": "1.4.1",
-  "android_build": 13,
-  "ios_build": 13,
-  "release_date": "2025-10-17",
+  "android_version": "1.5.0",
+  "ios_version": "1.5.0",
+  "android_build": 14,
+  "ios_build": 14,
+  "release_date": "2025-10-19",
   "release_notes": {
     "tr": {
-      "title": "Yaz-Boz Tahtası v1.4.1 Güncellemesi",
+      "title": "Yaz-Boz Tahtası v1.5.0 Güncellemesi",
       "features": [
-        "Pişti oyunu skor girişi iyileştirildi",
-        "Gömme'li Batak el skorları 16'ya kadar artırıldı"
+        "Yeni oyun: Pis Yedili eklendi",
+        "Tüm oyunlarda modern skor girişi (numpad)",
+        "Gelişmiş oyun sonu ekranları",
+        "Responsive tasarım iyileştirmeleri"
       ],
       "improvements": [
-        "Kullanıcı deneyimi optimizasyonları",
-        "Hata düzeltmeleri"
+        "Tüm oyunlarda tutarlı arayüz",
+        "Hızlı navigasyon ve geri butonları",
+        "Gelişmiş geçmiş oyunlar ekranı",
+        "Tema ve renk tutarlılığı"
       ],
       "fixes": [
-        "Pişti skor girişinde otomatik 0 temizleme",
-        "Gömme'li Batak tahmin ve skor giriş limitleri düzeltildi"
+        "Tüm oyunlarda stabilite artırıldı",
+        "Navigasyon sorunları çözüldü",
+        "Performans optimizasyonları",
+        "UI/UX iyileştirmeleri"
       ],
-      "message": "Güncellenmiş oyun deneyimini keşfedin!"
+      "message": "Yeni oyun deneyimini keşfedin!"
     },
     "en": {
-      "title": "Yaz-Boz Tahtası v1.4.1 Update",
+      "title": "Yaz-Boz Tahtası v1.5.0 Update",
       "features": [
-        "Pisti game score entry improved",
-        "Gömme'li Batak hand scores increased to 16"
+        "New game: Pis Yedili added",
+        "Modern score input (numpad) in all games",
+        "Enhanced game end screens",
+        "Responsive design improvements"
       ],
       "improvements": [
-        "User experience optimizations",
-        "Bug fixes"
+        "Consistent interface across all games",
+        "Quick navigation and back buttons",
+        "Enhanced game history screen",
+        "Theme and color consistency"
       ],
       "fixes": [
-        "Automatic 0 clearing in Pisti score entry",
-        "Fixed Gömme'li Batak bid and score entry limits"
+        "Stability improved across all games",
+        "Navigation issues resolved",
+        "Performance optimizations",
+        "UI/UX improvements"
       ],
-      "message": "Discover the updated gaming experience!"
+      "message": "Discover the new gaming experience!"
     }
   },
   "minimum_supported_version": {
